@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Advice On Graduating Into A Garbage Job Market
+title: Tripathi is King 
 publishedDate: 2020-08-13T12:00:28.345Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium
@@ -14,7 +14,7 @@ tags:
   - finance
   - economy
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At erat pellentesque adipiscing commodo elit at. Hendrerit dolor magna eget est lorem ipsum. Congue nisi vitae suscipit tellus mauris a. In cursus turpis massa tincidunt. Massa tempor nec feugiat nisl pretium fusce. Vitae auctor eu augue ut lectus arcu bibendum at. Nulla aliquet porttitor lacus luctus accumsan tortor. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Feugiat in fermentum posuere urna nec. Neque egestas congue quisque egestas diam. Et egestas quis ipsum suspendisse.
+Naveen Tripathi is a King Adami.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At erat pellentesque adipiscing commodo elit at. Hendrerit dolor magna eget est lorem ipsum. Congue nisi vitae suscipit tellus mauris a. In cursus turpis massa tincidunt. Massa tempor nec feugiat nisl pretium fusce. Vitae auctor eu augue ut lectus arcu bibendum at. Nulla aliquet porttitor lacus luctus accumsan tortor. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Feugiat in fermentum posuere urna nec. Neque egestas congue quisque egestas diam. Et egestas quis ipsum suspendisse.
 
 Tempus quam pellentesque nec nam aliquam sem et tortor consequat. Nunc consequat interdum varius sit amet mattis vulputate enim. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Lorem ipsum dolor sit amet consectetur. Ut venenatis tellus in metus vulputate eu scelerisque felis. Volutpat lacus laoreet non curabitur. Sociis natoque penatibus et magnis dis parturient montes nascetur. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Consequat interdum varius sit amet mattis vulputate. Ornare lectus sit amet est. Viverra ipsum nunc aliquet bibendum enim facilisis. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum varius. Iaculis at erat pellentesque adipiscing. Nec tincidunt praesent semper feugiat nibh. Nibh venenatis cras sed felis eget velit aliquet sagittis. Tellus molestie nunc non blandit. Maecenas ultricies mi eget mauris pharetra et ultrices.
 
